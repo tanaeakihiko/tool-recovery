@@ -20,12 +20,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 @arcsoftware
 
 STEP1).Google Login
+
 STEP2).Cloudflare
-https://tool-authenticate.pages.dev/
+https:
+//tool-authenticate.pages.dev/
 tanaeakihiko@arcsoftware.jp
+
 STEP3).onamae
 95527726=>zzzzz####
 tanaeakihiko@arcsoftware.jp=>Zzzzz_####
+
 STEP4).PIN(20ch)
 ####✖(five)
 
