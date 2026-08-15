@@ -24,11 +24,11 @@ STEP1).Google Login
 STEP2).Cloudflare
 https:
 //tool-authenticate.pages.dev/
-tanaeakihiko@arcsoftware.jp
+tanae@kinyuu.co.jp
 
 STEP3).onamae
 95527726=>zzzzz####
-tanaeakihiko@arcsoftware.jp=>Zzzzz_####
+tanaea@kinyuu.co.jp=>Zzzzz_####
 
 STEP4).PIN(20ch)
 ####✖(five)
