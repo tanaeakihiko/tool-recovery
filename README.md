@@ -23,7 +23,9 @@ https:
 
 //tool-authenticate.pages.dev/
 
-tanae@kinyuu.co.jpでログイン
+tanae＠
+
+kinyuu.ＣＯ.jpでログイン
 
 ### STEP3).onamae
 ログイン：95527726=>zzzzz####
