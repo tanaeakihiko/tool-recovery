@@ -17,13 +17,19 @@ Google環境の復旧
 
 ### STEP1).Google Login
 @officecloudにログイン/子供****
+
 ### STEP2).Cloudflare
-https://tool-authenticate.pages.dev/
+https:
+
+//tool-authenticate.pages.dev/
+
 tanae@kinyuu.co.jpでログイン
+
 ### STEP3).onamae
 ログイン：95527726=>zzzzz####
 次にWEBメール
 tanaea@kinyuu.co.jp=>Zzzzz_####
+
 ### STEP4).PIN(20ch)
 ####✖5回
 
