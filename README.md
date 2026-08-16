@@ -28,8 +28,10 @@ tanae@kinyuu.co.jpでログイン
 ### STEP3).onamae
 ログイン：95527726=>zzzzz####
 次にWEBメール
-tanaea@kinyuu.co.jp=>Zzzzz_####
+tanaea@
+
+kinyuu.co.jp=>Zzzzz_####
 
 ### STEP4).PIN(20ch)
-####✖5回
+　####✖5回
 
